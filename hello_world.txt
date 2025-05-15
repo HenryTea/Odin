@@ -1,0 +1,6 @@
+#include stdio.h
+int main(){
+    println("hello odin!");
+    getchar();
+    return 0;
+}
